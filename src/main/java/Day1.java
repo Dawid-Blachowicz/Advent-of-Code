@@ -1,7 +1,6 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class Day1 {
     public static void main(String[] args) throws FileNotFoundException {
